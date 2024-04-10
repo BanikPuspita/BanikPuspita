@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banikpuspita&label=Profile%20views&color=0e75b6&style=flat" alt="banikpuspita" /> </p>
 
-- 🌱 I’m currently learning **Web Development Course**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **puspitabanik213@gmail.com**
 
